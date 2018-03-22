@@ -5,7 +5,7 @@
   <groupId>com.macys.navapp</groupId>
   <artifactId>navapp-test</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>navapp-test</name>
   <url>http://maven.apache.org</url>
